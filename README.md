@@ -5,4 +5,4 @@ This short code contains three functions that handle input control of integer, f
 
 -input_control_float -> only float are allowed. the "e" notation is allowed : "14e-1" 
 
--input_control_string -> only letters and spaces are allowed. All ponctuation mark are forbiden.
+-input_control_string -> only letters and spaces are allowed. All ponctuation marks are forbiden.
