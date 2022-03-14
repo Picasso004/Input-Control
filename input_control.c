@@ -127,7 +127,7 @@ void main()
 	printf("%d\n",test);
 	
 	float test2 = 0;
-	test2 = input_control_float("Just try it:",0,15);
+	test2 = input_control_float("Just try it:",0,19.5);
 	printf("%f\n",test2);
 	
 	char* string1;
